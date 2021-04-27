@@ -1,4 +1,9 @@
 <nav class="tabs">
+    
+    <a href="../index.php">
+        <button type="button">Inicio</button>
+    </a>
+
     <a href="form1.php">
         <button type="button">form1</button>
     </a>
